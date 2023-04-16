@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hola, mi nombre es Javier Rodríguez Valentín aka ValenVier 👋
+
+###  Full-Stack Developer | iOS | Andorid
+
+Soy desarrollador front-end y back-end de entornos web pero también desarrollo en plataformas iOS y Android.
+
+Soy un ingeniero mecánico que poco a poco se fue metiendo en el mundo de la programación como una pasión por
+
+En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
 <!--
 **ValenVier/ValenVier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
