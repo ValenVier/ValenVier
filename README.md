@@ -6,7 +6,7 @@ Soy desarrollador front-end y back-end de **_entornos web_** pero también desar
 
 Soy un ingeniero mecánico que poco a poco se fue metiendo en el mundo de la programación como una pasión por la tecnología y los videojuegos. Aprendiendo por mi cuenta conseguí entrar en cursos avanzados de desarrollo web así como de desarrollo para plataformas como iOS y Android. Actualmente estoy cursando un master de Full-Stack Developer para avanzar en mi formación y mejorar mis técnicas de desarrollo.
 
-Logré tachar de mi lista el objetivo más importante el día que empecé a trabajar omo programador. Desde entonces no he parado de crecer en el mundo del desarrollo documentándome sobre algunos de los diferentes lenguajes y frameworks y sobre las buenas prácticas de desarrollo.
+Logré tachar de mi lista el objetivo más importante el día que empecé a trabajar como programador. Desde entonces no he parado de crecer en el mundo del desarrollo documentándome sobre algunos de los diferentes lenguajes y frameworks y sobre las buenas prácticas de desarrollo.
 
 
 <!--
