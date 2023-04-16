@@ -1,7 +1,7 @@
 # Hola, mi nombre es Javier Rodríguez Valentín aka ValenVier 👋
 
 ###  Full-Stack Developer | iOS | Andorid
-Soy desarrollador front-end y back-end de **entornos web** pero también desarrollo en plataformas **iOS** y **Android**.
+Soy desarrollador front-end y back-end de **__entornos web__** pero también desarrollo en plataformas **__iOS__** y **__Android__**.
 
 
 Soy un ingeniero mecánico que poco a poco se fue metiendo en el mundo de la programación como una pasión por la tecnología y los videojuegos. Aprendiendo por mi cuenta conseguí entrar en cursos avanzados de desarrollo web así como de desarrollo para plataformas como iOS y Android. Actualmente estoy cursando un master de Full-Stack Developer para avanzar en mi formación y mejorar mis técnicas de desarrollo.
