@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About me
 ###  Full-Stack Developer | Andorid | iOS 
 
-I am a mechanical engineer who gradually got into the world of programming as a passion for science, technology and videogames. 
+I am a mechanical engineer who gradually got into the world of programming because of my passion for science, technology and videogames. 
 I learned on my own some programming languages, went through specialization courses and finally got to the Full-Stack Developer master to progress in my learning and improve my development technics.
 I am really passionate about facing new challenges and learning new skills every day.
 
