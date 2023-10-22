@@ -1,4 +1,4 @@
-# I´m Javi (here as ValenVier) 👋
+# I´m Javi (aka ValenVier) 👋
 
 ## 👨🏻‍💻 About me
 ###  Full-Stack Developer | Andorid | iOS 
